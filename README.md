@@ -1,20 +1,14 @@
 # Event-Management-system
 
-FEATURES IMPLEMENTED:
-Interfaces: IAccount, IManagement
+Features Included:
+Base class Event
 
-Abstract Class: Person
+Derived classes Workshop and Seminar
 
-Derived Classes: Admin, Farmer
+Method overloading in Event
 
-Animal class with input validation
+List to store events
 
-Custom Exception: InvalidLoginException
+Exception handling for invalid input
 
-Login system with role-based access
-
-File-based data persistence (animals.txt)
-
-Menu-driven system for Admin and Farmer
-
-Input validation & exception handling
+Menu with switch statement
